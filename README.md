@@ -66,14 +66,14 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-v-s&show_icons=true&locale=en&layout=compact" alt="prakash-v-s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokki-workspace&show_icons=true&locale=en&layout=compact" alt="lokki-workspace" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-v-s&show_icons=true&locale=en" alt="prakash-v-s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokki-workspace&show_icons=true&locale=en" alt="lokki-workspace" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-v-s&" alt="prakash-v-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokki-workspace&" alt="lokki-workspace" /></p>
 
 <br clear="both">
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=lokki-workspace&theme=kimbie_dark"><img src="https://github-profile-trophy.vercel.app/?username=lokki-workspace" alt="lokki-workspace" /></a> </p>
 
 <h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
