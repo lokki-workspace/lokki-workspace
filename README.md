@@ -1,4 +1,5 @@
-![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://github.com/Prakash-V-S/Prakash-V-S/assets/141955456/86bbffb2-beb7-41ed-bee7-efdf3ccecb9d)
+![Picsart_24-03-16_00-22-36-232](https://github.com/lokki-workspace/lokki-workspace/assets/128024609/c1156919-e206-473b-aee6-53680b6d962e)
+
 
 <h1 align="center">Hi 👋, I'm Logeshwaran S</h1>
 <h3 align="center">A passionate full stack developer</h3>
