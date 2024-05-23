@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img align="right" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="490" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-v-s&show_icons=true&locale=en&layout=compact" alt="prakash-v-s" /></p>
