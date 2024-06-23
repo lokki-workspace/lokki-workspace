@@ -10,7 +10,7 @@
     </a>
 </div>
 <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
-- 🎓 Recent graduate with a degree in **Bachelor of Computer Science and Engineering**
+- 🎓 Recent graduate with a degree in  Bachelor of Computer Science and Engineering
 
 - 🛠️ My Favorite Tools and Technologies: **💻 Visual Studio Code - 🚀 React.js for frontend development**
 
@@ -60,7 +60,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.instagram.com/_prakash.vs_/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
