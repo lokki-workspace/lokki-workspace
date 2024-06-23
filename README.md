@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Logeshwaran S</h1>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=500&height=50&lines=%F0%9F%91%8B+Full+Stack+Developer;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=500&height=50&lines=Full+Stack+Developer;" alt="Typing SVG" />
     </a>
 </div>
 <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
