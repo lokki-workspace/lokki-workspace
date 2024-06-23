@@ -1,8 +1,16 @@
 ![Picsart_24-03-16_00-22-36-232](https://github.com/lokki-workspace/lokki-workspace/assets/128024609/c1156919-e206-473b-aee6-53680b6d962e)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Logeshwaran S</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Full+Stack+Developer" alt="Typing SVG" />
+    </a>
+</div>
 <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
 - 🎓 Recent graduate with a degree in **Bachelor of Computer Science and Engineering**
 
