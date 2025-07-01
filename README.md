@@ -10,21 +10,39 @@
     </a>
 </div>
 <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
-- 🎓 Recent graduate with a degree in  Bachelor of Computer Science and Engineering
 
-- 🛠️ My Favorite Tools and Technologies: **💻 Visual Studio Code - 🚀 React.js for frontend development**
+## ABOUT ME !! 
 
-- 💻 Actively learning and exploring **Full Stack Development (MERN).**
+```yaml
+  name: "Logeshwaran Shanmugam"
+  role: "Developer"
+  Location: "Chennai, India"
+  Education:
+    degree: "BE in Computer Science and Engineering"
+    university: "Anna University"
+    CGPA: "6.7/10"
+  Past_Experiences:
+    - role: "Product Engineer", "DataSwitch Inc."
+    - description: "Contribution in java based migration tool, Automating SQL
+                        and Converting files target technology to Source technology"
+  Specialization: "Java Developer"
+  Currently_learning:
+  - "Full Stack"
+  - "AWS"
+```
 
-- 🌱 I’m Currently focusing on **Full stact developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React js, Next js, Express js, Node js, Mongo DB and Java, Spring.**
+## SKILLS:
 
-- 📫 How to reach me: **lokeshspl15@gmail.com**
+| Category                     | Skills and Icons                                                            |
+|------------------------------|---------------------------------------------------------------------------|
+| **Programming Languages**    | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend Development**     | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Databases**                |  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
+| **Tools**                 | ![Eclipse](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Intelij](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Postman](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![canva](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)|
 
-- 🎲 Fun fact: **I can solve a Rubik's Cube in under 40 sec! It's my favorite way to unwind after coding sessions.**
-
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 
@@ -56,6 +74,14 @@
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="30" alt="netlify logo"  />
   <img width="12" />
 </div>
+
+## 🚀 Projects
+
+### Full Stack Development
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| [Ceramic Haven](https://github.com/jahnvisahni31/CeramicHaven) | Full stack application for data management and user access | MongoDB, React, Node, Express |
+| [DesignDeck](https://github.com/jahnvisahni31/DesignDeck) | Figma-inspired web design tool with real-time collaboration | Next.js, TypeScript, Liveblocks, Cursor |
 
 
 <h3 align="left">Connect with me:</h3>
